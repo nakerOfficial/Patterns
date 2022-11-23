@@ -1,0 +1,15 @@
+D:\Projects dotNet\Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+D:\Projects dotNet\Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\Projects dotNet\Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\Projects dotNet\Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+D:\Projects dotNet\Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+D:\Projects dotNet\Patterns\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
